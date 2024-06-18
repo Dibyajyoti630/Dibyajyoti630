@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dibyajyoti630
+- 👋 Hi, I’m @DibyajyotiNayak
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate with a MNC
